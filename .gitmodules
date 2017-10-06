@@ -1,0 +1,15 @@
+[submodule "aleju/papers"]
+	path = aleju/papers
+	url = git://github.com/aleju/papers.git
+[submodule "wnzhang/rtb-papers"]
+	path = wnzhang/rtb-papers
+	url = git://github.com/wnzhang/rtb-papers.git
+[submodule "terryum/awesome-deep-learning-papers"]
+	path = terryum/awesome-deep-learning-papers
+	url = git://github.com/terryum/awesome-deep-learning-papers.git
+[submodule "papers-we-love/papers-we-love"]
+	path = papers-we-love/papers-we-love
+	url = git://github.com/papers-we-love/papers-we-love.git
+[submodule "songrotek/Deep-Learning-Papers-Reading-Roadmap"]
+	path = songrotek/Deep-Learning-Papers-Reading-Roadmap
+	url = git://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap.git
